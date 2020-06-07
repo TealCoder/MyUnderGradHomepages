@@ -1,0 +1,203 @@
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/ [766/766] -> "index.html.1.tmp.tmp" [1]
+http://127.0.0.1:8080/robots.txt:
+2020-06-07 13:04:16 ERROR 404: File not found.
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/ [3755/3755] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/ [957/957] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Junior/ [4757/4757] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/old-page-pics/ [521/521] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/backind.jpg 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Freshman/shit.html:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/tech.html [3835/3835] -> "tech.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/com.html [4204/4204] -> "com.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/grow.html [2425/2425] -> "grow.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/link.html [3971/3971] -> "link.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/sean.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/top.html [970/970] -> "top.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/home.html [1702/1702] -> "home.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/personal/index.html [1965/1965] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/resume/index.html [489/489] -> "index.html.1.tmp.tmp" [1]
+http://127.0.0.1:8080/Sophmore/projects/index.html:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/links.html [1570/1570] -> "links.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/stuff/backfun.js 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Junior/images/sean.jpg:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/stuff/Sean%20Head's%20Resume.doc 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Junior/images/resume.gif:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Junior/content/personality.html [14524/14524] -> "personality.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/images/tests.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Junior/content/seanhead.html [3664/3664] -> "seanhead.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/images/name.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Junior/content/stockton.html [1026/1026] -> "stockton.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/american.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Junior/content/winprogs/ [390/390] -> "winprogs.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/images/can.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/images/myspace.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/images/facebook.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/old-page-pics/dad/ [1063/1063] -> "dad.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/old-page-pics/uop/ [262/262] -> "uop.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/old-page-pics/cold/ [1131/1131] -> "cold.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/tech.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/index.html [3755/3755] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/com.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/group.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/palmsbig.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/oceanlong.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/happy.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/homefoto.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/2005.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/tyrian.zip 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/plane.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Freshman/This.html [403/403] -> "This.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/car.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/game.zip 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/edestroy.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/sling.jpg 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Freshman/www.uop.edu:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/smalltig.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/projects.html [9535/9535] -> "projects.html.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/personal/uop/index.html [999/999] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/personal/cold/index.html [1116/1116] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/images/kauai.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/images/ischool.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL:http://127.0.0.1:8080/Sophmore/personal/dad/index.html [1063/1063] -> "index.html.1.tmp.tmp" [1]
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/resume/Sean-Head-Resume.rtf 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/resume/resume.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/resume/Resume.doc 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Sophmore/images/happy.jpg:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Sophmore/old/index.html:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/images/eng5.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/images/1&1.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/rip_top.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/rip_bottom.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/spacer.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/rotateskull.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/spark.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/lotr.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/bunny.gif 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/eatpeople.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/images/stockton.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/winprogs/QBASIC.exe 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Junior/content/winprogs/PUTTY.exe 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/old-page-pics/dad/shumba.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/old-page-pics/dad/family.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/old-page-pics/dad/before.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/old-page-pics/dad/after.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/old-page-pics/uop/sean-HAIRY.jpg 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/old-page-pics/cold/breath.jpg:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/old-page-pics/cold/ice.jpg:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Freshman/Car.class:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Freshman/car.zip 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Sophmore/misc/tyrian.zip:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Sophmore/misc/car.zip:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Sophmore/misc/game.zip:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Sophmore/misc/nn.cpp:
+Remote file does not exist -- broken link!!!
+http://127.0.0.1:8080/Sophmore/misc/ttt.zip:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/uop/sunrise.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/uop/bed.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/uop/desk.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/uop/dorm.jpg 200 OK
+unlink: No such file or directory
+http://127.0.0.1:8080/Sophmore/personal/uop/sean.jpg:
+Remote file does not exist -- broken link!!!
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/cold/breath.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/cold/ice.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/cold/ice-fingers.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/dad/shumba.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/dad/family.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/dad/before.jpg 200 OK
+unlink: No such file or directory
+2020-06-07 13:04:16 URL: http://127.0.0.1:8080/Sophmore/personal/dad/after.jpg 200 OK
+unlink: No such file or directory
+Found 16 broken links.
+
+http://127.0.0.1:8080/Freshman/shit.html
+http://127.0.0.1:8080/Sophmore/misc/nn.cpp
+http://127.0.0.1:8080/old-page-pics/cold/ice.jpg
+http://127.0.0.1:8080/Sophmore/misc/tyrian.zip
+http://127.0.0.1:8080/Junior/images/sean.jpg
+http://127.0.0.1:8080/old-page-pics/cold/breath.jpg
+http://127.0.0.1:8080/Junior/images/resume.gif
+http://127.0.0.1:8080/Sophmore/projects/index.html
+http://127.0.0.1:8080/Freshman/Car.class
+http://127.0.0.1:8080/Sophmore/images/happy.jpg
+http://127.0.0.1:8080/Sophmore/misc/game.zip
+http://127.0.0.1:8080/Sophmore/personal/uop/sean.jpg
+http://127.0.0.1:8080/Sophmore/misc/ttt.zip
+http://127.0.0.1:8080/Sophmore/old/index.html
+http://127.0.0.1:8080/Freshman/www.uop.edu
+http://127.0.0.1:8080/Sophmore/misc/car.zip
+
+FINISHED --2020-06-07 13:04:16--
+Total wall clock time: 0.07s
+Downloaded: 27 files, 69K in 0s (316 MB/s)

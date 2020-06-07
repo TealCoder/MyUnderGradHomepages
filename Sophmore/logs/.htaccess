@@ -1,0 +1,9 @@
+Satisfy any
+Order Deny,Allow
+Allow from 172.17.0.0/16
+Allow from 212.227.35.64/27
+Deny from all
+AuthType Basic
+AuthName "Access for /logs" 
+AuthUserFile /kunden/homepages/31/d91723586/htpasswd
+require user u35649851

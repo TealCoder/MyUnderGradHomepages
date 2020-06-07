@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Windows Programs</title>
+<script language=javascript src='http://www1.pacific.edu/~s-head/stuff/backfun.js'></script>
+</head><body text=000000 onload='javascript:rotate()'>
+<font size=5>
+<b>Windows Programs</b>
+<hr size=1 width='30%'>
+
+<a href='QBASIC.exe'>QBASIC.exe</a><br>
+<a href='PUTTY.exe'>PUTTY.exe</a><br>
+<a href='SSHWinSecureShell24.exe'>SSHWinSecureShell24.exe</a><br>
+&nbsp;<br><a href='../'>Back<br>
+</html>
